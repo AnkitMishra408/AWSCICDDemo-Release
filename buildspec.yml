@@ -26,4 +26,3 @@ artifacts:
   files:
     - '**/*.html'
   discard-paths: yes
-  base-directory: 'dist/AWSCICDDemo-Release'
